@@ -1,0 +1,47 @@
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    color:grey;
+    height: 600px;
+    width: 800px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+
+#one{
+    height: 16px;
+    width: 16px;
+    color:blue;
+}
+
+#two{
+    height: 16px;
+    width: 16px;
+    color:blue;
+}
+
+#three{
+    height: 16px;
+    width: 16px;
+    color:blue;
+}
+
+#four{
+    height: 16px;
+    width: 16px;
+    color:blue;
+}
+
+#five{
+    height: 16px;
+    width: 16px;
+    color:blue;
+}
+
+#six{
+    height: 16px;
+    width: 16px;
+    color:blue;
+}
