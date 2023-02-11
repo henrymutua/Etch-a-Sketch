@@ -1,7 +1,6 @@
 const body  = document.body;
 
 const container = document.createElement('div');
-
 container.setAttribute('class', 'container');
 body.appendChild(container);
 
@@ -29,4 +28,3 @@ const div6 = document.createElement('div');
 div6.setAttribute('id', 'six');
 container.appendChild(div6);
 
-console.log(container);

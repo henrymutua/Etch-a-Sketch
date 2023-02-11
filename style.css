@@ -1,47 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    height: 800px;
+    width: 800px;
+    background-color: antiquewhite;
+}
+
 .container{
     display:flex;
     flex-wrap:wrap;
-    color:grey;
-    height: 600px;
+    background-color:antiquewhite;
+    height: 800px;
     width: 800px;
     margin: 0px;
     padding: 0px;
     border: 0px;
+    gap: 5px;
+    justify-content: center;
 
 }
 
 #one{
+    margin: 0px;
+    padding : 20px;
+    border: 0px;
     height: 16px;
     width: 16px;
-    color:blue;
+    background-color:cyan;
 }
 
 #two{
+    margin: 0px;
+    padding : 20px;
+    border: 0px;
     height: 16px;
     width: 16px;
-    color:blue;
+    background-color:cyan;
 }
 
+
 #three{
+    margin: 0px;
+    padding : 20px;
+    border: 0px;
     height: 16px;
     width: 16px;
-    color:blue;
+    background-color:cyan;
+
 }
 
 #four{
+    margin: 0px;
+    padding : 20px;
+    border: 0px;
     height: 16px;
     width: 16px;
-    color:blue;
+    background-color:cyan;
+
 }
 
 #five{
+    margin: 0px;
+    padding : 20px;
+    border: 0px;
     height: 16px;
     width: 16px;
-    color:blue;
+    background-color:cyan;
+
 }
 
 #six{
+    margin: 0px;
+    padding : 20px;
+    border: 0px;
     height: 16px;
     width: 16px;
-    color:blue;
+    background-color:cyan;
+
 }
