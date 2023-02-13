@@ -11,19 +11,18 @@ body{
     display:flex;
     flex-wrap:wrap;
     background-color:antiquewhite;
-    height: 800px;
-    width: 800px;
-    margin: 0px;
+    height: 169px;
+    width: 169px;
+    margin: 10px;
     padding: 0px;
     border: 0px;
-    gap: 5px;
     justify-content: center;
 
 }
 
-#one{
-    margin: 0px;
-    padding : 20px;
+.grid-square{
+    margin-right: 1px;
+    padding : 0px;
     border: 0px;
     height: 16px;
     width: 16px;
@@ -31,64 +30,12 @@ body{
     
 }
 
-#one:hover{
-    margin: 0px;
-    padding : 20px;
+.grid-square:hover{
+    margin-right: 2px;
+    padding : 0px;
     border: 0px;
     height: 16px;
     width: 16px;
     background-color:cornflowerblue;
     
-}
-
-
-
-#two{
-    margin: 0px;
-    padding : 20px;
-    border: 0px;
-    height: 16px;
-    width: 16px;
-    background-color:cyan;
-}
-
-
-#three{
-    margin: 0px;
-    padding : 20px;
-    border: 0px;
-    height: 16px;
-    width: 16px;
-    background-color:cyan;
-
-}
-
-#four{
-    margin: 0px;
-    padding : 20px;
-    border: 0px;
-    height: 16px;
-    width: 16px;
-    background-color:cyan;
-
-}
-
-#five{
-    margin: 0px;
-    padding : 20px;
-    border: 0px;
-    height: 16px;
-    width: 16px;
-    background-color:cyan;
-
-}
-
-#six{
-    margin: 0px;
-    padding : 20px;
-    border: 0px;
-    height: 16px;
-    width: 16px;
-    background-color:cyan;
-
 }
