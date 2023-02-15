@@ -363,3 +363,5 @@ container.appendChild(div89);
 const div90 = document.createElement('div');
 div90.setAttribute('class', 'grid-square');
 container.appendChild(div90);
+
+const gridSquare = document.getElementsByClassName('grid-square');
