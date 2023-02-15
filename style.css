@@ -13,7 +13,7 @@ body{
     background-color:antiquewhite;
     height: 169px;
     width: 169px;
-    margin: 10px;
+    margin: 0px;
     padding: 0px;
     border: 0px;
     justify-content: center;
@@ -22,6 +22,7 @@ body{
 
 .grid-square{
     margin-right: 1px;
+    margin-bottom: 1px;
     padding : 0px;
     border: 0px;
     height: 16px;
