@@ -9,7 +9,7 @@ body{
     display: flex;
     width: 400px;
     justify-content: space-evenly;
-    margin: 5px;
+    margin-bottom: 20px;
 }
 
 .grid{
@@ -21,7 +21,7 @@ body{
 }
 
 .footer{
-    margin: 10px;
+    margin-top: 20px;
     display: flex;
     width: 500px;
     justify-content: space-between;
